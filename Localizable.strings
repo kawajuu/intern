@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  intern
+
+  Created by x21032xx on 2022/09/16.
+  
+*/
+
+"Fois" = "Fois";
+"社員ID" = "Tên người dùng";
+"パスワード" = "Mật khẩu";
+"ログイン" = "Đăng nhập";
+"社員IDまたはパスワードを入力してください。" = "Vui lòng nhập ID nhân viên hoặc mật khẩu của bạn.";
+"ログインに失敗しました。" = "đăng nhập thất bại.";
+
+
